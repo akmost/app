@@ -1,10 +1,10 @@
 [
   {
-    "id": "bitcoin",
-    "symbol": "btc",
-    "name": "Bitcoin",
-    "image": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579",
-    "background": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F908633080%2F960x0.jpg%3Ffit%3Dscale"
+    "id": "bsc-station",
+    "symbol": "bscs",
+    "name": "BSC Station",
+    "image": "https://assets.coingecko.com/coins/images/14963/large/BSCS_LOGO.png",
+    "background": "https://cryptoslate.com/wp-content/uploads/2021/04/bsc-station-social.jpg"
    },
    {
     "id": "bitcoin",
