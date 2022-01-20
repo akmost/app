@@ -4,7 +4,8 @@
     "symbol": "bscs",
     "name": "BSC Station",
     "image": "https://assets.coingecko.com/coins/images/14963/large/BSCS_LOGO.png",
-    "background": "https://cryptoslate.com/wp-content/uploads/2021/04/bsc-station-social.jpg"
+    "background": "https://cryptoslate.com/wp-content/uploads/2021/04/bsc-station-social.jpg",
+    "info": "com.bitcoin.crypto.info"
    },
    {
     "id": "bitcoin",
