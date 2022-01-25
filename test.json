@@ -12,8 +12,8 @@
     "id": "bitcoin",
     "symbol": "btc",
     "name": "Bitcoin",
-    "image": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579",
-    "detail": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F908633080%2F960x0.jpg%3Ffit%3Dscale",
+    "image": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
+    "detail": "Detailed Info",
     "description": "Bitcoin is a cryptocurrency. It is a decentralized digital currency that is based on cryptography. As such, it can operate without the need of a central authority like a central bank or a..."
    },
    {
