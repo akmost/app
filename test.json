@@ -9,21 +9,12 @@
     "info": "com.bitcoin.crypto.info"
    },
    {
-    "id": "bitcoin",
-    "symbol": "btc",
-    "name": "Bitcoin",
-    "image": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
-    "detail": "Detailed Info",
-    "description": "Bitcoin is a cryptocurrency. It is a decentralized digital currency that is based on cryptography. As such, it can operate without the need of a central authority like a central bank or a..."
-   },
-   {
     "id": "launchzone",
     "symbol": "LZ",
     "name": "LaunchZone",
     "image": "https://assets.coingecko.com/coins/images/17761/large/icon_%287%29.png",
     "background": "https://binancechain.news/wp-content/uploads/2021/06/LaunchZone-BSCEX-Jumpstarting-the-Binance-Smart-Chain-1536x864.jpg",
-    "detail": "The Ultimate DeFi Platform",
-    "info": "com.bitcoin.crypto.info"
+    "detail": "The Ultimate DeFi Platform"
    },
    {
     "id": "bitcoin",
