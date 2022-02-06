@@ -9,6 +9,7 @@
     "detail": "BSCStation (BSCS) aims to build a Full-Stack DEFI with NFT Auction on the Binance Smart Chain",
     "info": "com.bitcoin.crypto.info",
     "version": "1",
+    "show": "true",
     "data": "com.bitcoin.crypto.info"
    },
    {
