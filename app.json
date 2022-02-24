@@ -2,7 +2,7 @@
 [
   {
     "main": "com.bitcoin.crypto.info",
-    "version": "1",
+    "version": "10",
     "show": "false",
     "newapp": "com.bitcoin.crypto.info"
    }
