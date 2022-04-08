@@ -1,0 +1,8 @@
+[
+  {
+    "main": "com.bitcoin.crypto.info.airdrop",
+    "version": "1",
+    "show": "false",
+    "newapp": "com.bitcoin.crypto.info"
+   }
+]
