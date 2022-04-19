@@ -1,6 +1,6 @@
 [
   {
-    "main": "com.bitcoin.crypto.info.airdrop",
+    "main": "com.bitcoin.crypto.info.airdrop.nft",
     "version": "1",
     "show": "false",
     "newapp": "com.bitcoin.crypto.info"
