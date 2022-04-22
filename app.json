@@ -2,7 +2,7 @@
 [
   {
     "main": "com.bitcoin.crypto.info",
-    "version": "17",
+    "version": "18",
     "show": "false",
     "newapp": "com.bitcoin.crypto.info.airdrop.nft"
    }
