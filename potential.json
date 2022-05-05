@@ -3,12 +3,10 @@
   
      {
        
-    "id": "animverse",
-          "symbol": "ANM",
-    "name": "Animverse",
-    "image": "https://assets.coingecko.com/coins/images/24873/large/16410.png",
-    "background": "https://icohigh.net/uploads/posts/2022-03/1648278604_animverse_full.png",
-    "detail": "Animverse is a metaverse play-to-earn MMORPG game inspired by global phenomenon Animes/Mangas such as Dragon Ball, Naruto, OnePiece."
+  #  "id": "animverse",
+   # "image": "https://assets.coingecko.com/coins/images/24873/large/16410.png",
+   # "background": "https://icohigh.net/uploads/posts/2022-03/1648278604_animverse_full.png",
+   # "detail": "Animverse is a metaverse play-to-earn MMORPG game inspired by global phenomenon Animes/Mangas such as Dragon Ball, Naruto, OnePiece."
    }
    
 ]
