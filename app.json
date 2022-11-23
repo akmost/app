@@ -3,7 +3,7 @@
   {
     "main": "com.bitcoin.crypto.info",
     "version": "20",
-    "show": "false",
+    "show": "true",
     "newapp": "com.bitcoin.crypto.info.airdrop.nft"
    }
 ]
