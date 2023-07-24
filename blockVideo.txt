@@ -1,0 +1,10 @@
+0.0.0.0 infoevent.startappservice.com
+0.0.0.0 adsmetadata.startappservice.com
+0.0.0.0 info.startappservice.com
+0.0.0.0 trackdownload.startappservice.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 androidads4-8.adcolony.com
+0.0.0.0 app.appsflyer.com
+0.0.0.0 adx.ads.vungle.com
+0.0.0.0 ads.api.vungle.com
